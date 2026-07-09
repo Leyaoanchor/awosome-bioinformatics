@@ -361,7 +361,7 @@ Thanks this work: Hadfield, J. & Retief, J. A profusion of confusion in NGS meth
 #### Web-based Service
 
 - [Hiplot](https://hiplot.com.cn): a simple and user-friendly visualization platform for scientific data.
-- [SeqBench](https://seqbench.com): free online DNA/RNA/protein sequence analysis toolkit (translation, primer Tm & design, restriction sites & cloning, CRISPR guide design, codon optimisation); also exposes an MCP server and REST API for AI agents.
+- [SeqBench](https://seqbench.com): DNA/RNA/protein sequence analysis toolkit with batch processing and multi-tool workflow pipelines over whole FASTA files, plasmid/sequence visualization, primer design, restriction & cloning simulation, and CRISPR guide design; exposes an MCP server and REST API for AI agents.
 - [UCSC](https://genome.ucsc.edu/)
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
   - [CDD](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)
